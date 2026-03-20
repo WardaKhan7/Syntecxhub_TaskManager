@@ -35,17 +35,29 @@ Built with **React, Node.js, Express, and MongoDB**, featuring a clean and moder
 ---
 ## 💻 Screenshots
 
+### Landing Page
+![Landing Page](frontend/screenshots/landingpage.png)
+
+### Signup Page
+![Signup Page](frontend/screenshots/signup.png)
+
 ### Login Page
 ![Login Page](frontend/screenshots/login.png)
 
 ### Dashboard
 ![Dashboard](frontend/screenshots/dashboard.png)
 
-### Add / Edit Task
-![Add Task](frontend/screenshots/add-task.png)
+### Full Dashboard Task
+![Add Task](frontend/screenshots/dash.gif)
 
 ### Completed Task
-![Completed Task](frontend/screenshots/completed-task.png)
+![Completed Task](frontend/screenshots/complete.gif)
+
+### Edit Task
+![Edit Task](frontend/screenshots/edit.gif)
+
+### Delete Task
+![Edit Task](frontend/screenshots/delete.gif)
 
 ---
 
