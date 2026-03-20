@@ -39,7 +39,7 @@ Built with **React, Node.js, Express, and MongoDB**, featuring a clean and moder
 ![Landing Page](frontend/screenshots/landingpage.png)
 
 ### Signup Page
-![Signup Page](frontend/screenshots/signup.png)
+![Signup Page](frontend/screenshots/register.png)
 
 ### Login Page
 ![Login Page](frontend/screenshots/login.png)
