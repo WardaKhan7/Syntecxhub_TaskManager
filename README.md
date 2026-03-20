@@ -124,12 +124,6 @@ JWT_SECRET=your_secret_key
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 ## 🚀 Future Improvements
 
 - 🎨 Advanced UI with glassmorphism & animations  
@@ -140,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [wardacodes@gmail.com](mailto:wardacodes@gmail.com)
+Warda Khan - [wardacodes@gmail.com](mailto:wardacodes@gmail.com)
 
 Project Link: [https://github.com/WardaKhan7/task-manager](https://github.com/WardaKhan7/task-manager)
 
